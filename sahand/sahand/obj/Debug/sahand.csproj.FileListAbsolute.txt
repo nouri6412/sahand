@@ -1,0 +1,39 @@
+D:\Ladder Otaz\sahand\sahand\bin\Debug\sahand.exe.config
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.csprojResolveAssemblyReference.cache
+D:\Ladder Otaz\sahand\sahand\obj\Debug\MainWindow.baml
+D:\Ladder Otaz\sahand\sahand\obj\Debug\MainWindow.g.cs
+D:\Ladder Otaz\sahand\sahand\obj\Debug\App.g.cs
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand_MarkupCompile.cache
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.g.resources
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.Properties.Resources.resources
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.csproj.GenerateResource.Cache
+D:\Ladder Otaz\sahand\sahand\bin\Debug\sahand.exe
+D:\Ladder Otaz\sahand\sahand\bin\Debug\sahand.pdb
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.exe
+D:\Ladder Otaz\sahand\sahand\obj\Debug\sahand.pdb
+D:\tanish\sahand\sahand\bin\Debug\sahand.exe.config
+D:\tanish\sahand\sahand\obj\Debug\sahand.exe
+D:\tanish\sahand\sahand\obj\Debug\sahand.pdb
+D:\tanish\sahand\sahand\obj\Debug\sahand.csprojResolveAssemblyReference.cache
+D:\tanish\sahand\sahand\obj\Debug\MainWindow.baml
+D:\tanish\sahand\sahand\obj\Debug\MainWindow.g.cs
+D:\tanish\sahand\sahand\obj\Debug\App.g.cs
+D:\tanish\sahand\sahand\obj\Debug\sahand_MarkupCompile.cache
+D:\tanish\sahand\sahand\obj\Debug\sahand.g.resources
+D:\tanish\sahand\sahand\obj\Debug\sahand.Properties.Resources.resources
+D:\tanish\sahand\sahand\obj\Debug\sahand.csproj.GenerateResource.Cache
+D:\tanish\sahand\sahand\bin\Debug\sahand.exe
+D:\tanish\sahand\sahand\bin\Debug\sahand.pdb
+D:\jalil\project\http\sahand\sahand\bin\Debug\sahand.exe.config
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.exe
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.pdb
+D:\jalil\project\http\sahand\sahand\bin\Debug\sahand.exe
+D:\jalil\project\http\sahand\sahand\bin\Debug\sahand.pdb
+D:\jalil\project\http\sahand\sahand\obj\Debug\MainWindow.baml
+D:\jalil\project\http\sahand\sahand\obj\Debug\MainWindow.g.cs
+D:\jalil\project\http\sahand\sahand\obj\Debug\App.g.cs
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand_MarkupCompile.cache
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.g.resources
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.Properties.Resources.resources
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.csproj.GenerateResource.Cache
+D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.csprojResolveAssemblyReference.cache
