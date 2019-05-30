@@ -37,3 +37,16 @@ D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.g.resources
 D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.Properties.Resources.resources
 D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.csproj.GenerateResource.Cache
 D:\jalil\project\http\sahand\sahand\obj\Debug\sahand.csprojResolveAssemblyReference.cache
+D:\github\sahand\sahand\sahand\bin\Debug\sahand.exe.config
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.exe
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.pdb
+D:\github\sahand\sahand\sahand\bin\Debug\sahand.exe
+D:\github\sahand\sahand\sahand\bin\Debug\sahand.pdb
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.csprojResolveAssemblyReference.cache
+D:\github\sahand\sahand\sahand\obj\Debug\MainWindow.baml
+D:\github\sahand\sahand\sahand\obj\Debug\MainWindow.g.cs
+D:\github\sahand\sahand\sahand\obj\Debug\App.g.cs
+D:\github\sahand\sahand\sahand\obj\Debug\sahand_MarkupCompile.cache
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.g.resources
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.Properties.Resources.resources
+D:\github\sahand\sahand\sahand\obj\Debug\sahand.csproj.GenerateResource.Cache

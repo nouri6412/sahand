@@ -57,6 +57,16 @@ namespace sahand
                     {
                         list_item.list.Add(it);
                     }
+                    item it1 = new item()
+                    {
+                        nams = "ps4",
+                        pay = "",
+                        start = new DateTime(),
+                        time = 0,
+                        tozih = "",
+                        online = DateTime.Now
+                    };
+                    list_item.list.Add(it1);
                 }
             }
             catch { }
@@ -121,7 +131,11 @@ namespace sahand
                                             but.Style = (Style)FindResource("adi");
                     if (past > 5)
                     {
-                        but.Style = (Style)FindResource("khamush");
+                        if(but.Uid!="ps4")
+                        {
+    but.Style = (Style)FindResource("khamush");
+                        }
+                    
                     }
                     else
                     {
@@ -153,7 +167,10 @@ namespace sahand
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-
+                        Button but = new Button();
+            but.Style = (Style)FindResource("adi");
+            but.Uid = "ps4";
+            row3.Children.Add(but);
         }
         public void event_on(string str)
         {
@@ -164,11 +181,19 @@ namespace sahand
             int ii = 0;
             StackPanel st=new StackPanel();
             int tt = 0;
-             if (str.Contains("08") || str.Contains("09") || str.Contains("10") || str.Contains("11") || str.Contains("12") || str.Contains("13") || str.Contains("14"))
+           //  if (str.Contains("08") || str.Contains("09") || str.Contains("10") || str.Contains("11") || str.Contains("12") || str.Contains("13") || str.Contains("14"))
+           // {
+           //     row1.Children.Add(but);
+           // }
+           //else if(str.Contains("01")||str.Contains("02")||str.Contains("03")||str.Contains("04")||str.Contains("05")||str.Contains("06")||str.Contains("07"))
+           // {
+           //     row2.Children.Add(but);
+           // }
+            if (str.Contains("05") || str.Contains("06") || str.Contains("07") || str.Contains("08") )
             {
                 row1.Children.Add(but);
             }
-           else if(str.Contains("01")||str.Contains("02")||str.Contains("03")||str.Contains("04")||str.Contains("05")||str.Contains("06")||str.Contains("07"))
+            else if (str.Contains("01") || str.Contains("02") || str.Contains("03") || str.Contains("04"))
             {
                 row2.Children.Add(but);
             }
@@ -176,7 +201,7 @@ namespace sahand
              {
                  row3.Children.Add(but);
              }
-         
+          
         }
         private void Button_MouseDown(object sender, MouseButtonEventArgs e)
         {
