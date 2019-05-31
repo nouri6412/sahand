@@ -189,11 +189,11 @@ namespace sahand
            // {
            //     row2.Children.Add(but);
            // }
-            if (str.Contains("05") || str.Contains("06") || str.Contains("07") || str.Contains("08") )
+            if (str.Contains("06") || str.Contains("07") || str.Contains("08") || str.Contains("09") || str.Contains("10"))
             {
                 row1.Children.Add(but);
             }
-            else if (str.Contains("01") || str.Contains("02") || str.Contains("03") || str.Contains("04"))
+            else if (str.Contains("01") || str.Contains("02") || str.Contains("03") || str.Contains("04") || str.Contains("05"))
             {
                 row2.Children.Add(but);
             }
